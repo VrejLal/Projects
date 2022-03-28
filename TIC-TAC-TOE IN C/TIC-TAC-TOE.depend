@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1648218901 source:c:\users\ywarehouse\documents\tic-tac-toe\main.c
+	<stdio.h>
+	<conio.h>
+
