@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1648563090 source:c:\users\lal\documents\c\digital clock in c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1648563092 source:c:\users\ywarehouse\desktop\developing\c\digital clock in c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
